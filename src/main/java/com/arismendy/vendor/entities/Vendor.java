@@ -1,9 +1,11 @@
-package com.bharath.vendor.entities;
+package com.arismendy.vendor.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.Table;
 
 @Entity
+@Table(name = "vendor")
 public class Vendor {
 
 	@Id

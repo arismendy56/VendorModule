@@ -1,8 +1,8 @@
-package com.bharath.vendor.service;
+package com.arismendy.vendor.service;
 
 import java.util.List;
 
-import com.bharath.vendor.entities.Vendor;
+import com.arismendy.vendor.entities.Vendor;
 
 public interface VendorService {
 

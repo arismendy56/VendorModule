@@ -1,4 +1,4 @@
-package com.bharath.vendor;
+package com.arismendy.vendor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,4 +9,5 @@ public class VendorwebApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(VendorwebApplication.class, args);
 	}
+
 }
